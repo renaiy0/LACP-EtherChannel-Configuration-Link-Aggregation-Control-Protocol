@@ -231,7 +231,7 @@ This topology simulates:
 ## 🖼️ Network Topology
 
 <div align="center">
-  <img src="assets/topology-full.png" alt="Complete Network Architecture" width="1000"/>
+  <img src="assets/topology.png" alt="Complete Network Architecture" width="1000"/>
   <p><em>Complete enterprise network topology with multi-zone security architecture</em></p>
 </div>
 
